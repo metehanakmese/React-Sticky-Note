@@ -1,0 +1,11 @@
+.note-container{
+    background: var(--color);
+    width: 300px;
+    margin-left: -150px;
+    margin-top: 40px;
+}
+.note-container .note {
+    padding: 5px 10px;
+    border-radius: 4px;
+    color: #fff;
+}
